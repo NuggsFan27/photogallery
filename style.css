@@ -175,12 +175,12 @@ input[type=submit] {
     cursor: pointer;
 }
 
-  /*[href="#top"] {
-    position:fixed;
-    bottom:0px;
-    right:0px;
-    border-radius:10px 0 0px 0px;
-  }*/
+  [href="#top"] {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 10px 0 0px 0px;
+  }
   
 footer p{
     color: #ffffff;
